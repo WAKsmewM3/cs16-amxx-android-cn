@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/work/repo/cs16-client-main/build-android/cmake_install.cmake",
+		"/data/data/com.termux/files/home/work/repo/cs16-client-main/build-android/cl_dll/cmake_install.cmake",
+		"/data/data/com.termux/files/home/work/repo/cs16-client-main/build-android/3rdparty/yapb/cmake_install.cmake",
+		"/data/data/com.termux/files/home/work/repo/cs16-client-main/build-android/3rdparty/ReGameDLL_CS/cmake_install.cmake",
+		"/data/data/com.termux/files/home/work/repo/cs16-client-main/build-android/3rdparty/ReGameDLL_CS/regamedll/cmake_install.cmake",
+		"/data/data/com.termux/files/home/work/repo/cs16-client-main/build-android/3rdparty/mainui_cpp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
